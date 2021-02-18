@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: mcucountdown.com
-Token: 6ad11d7f0ec6643946c3ce201ddf29fe2fb4870182a119d0005081d3dbe641ca
